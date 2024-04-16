@@ -60,7 +60,7 @@ if page == pages[2] :
     
     with col1:
         val_code_insee = st.text_input('Code Insee', '67482')
-        val_mot_cle_1 = st.text_input('Mot clé 1', 'data')
+        val_mot_cle_1 = st.text_input('Mot clé 1')
         val_mot_cle_4 = st.text_input('Mot clé 4')
         
     with col2:
