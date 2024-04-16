@@ -121,7 +121,7 @@ if page == pages[2] :
     
     st.write("**Pensez à sauvegarder vos résultats dans un fichier CSV.**")
     
-    st.download_button("Cliquez pour télécharder", csv, "postes.csv","text/csv",key='download-csv')
+    st.download_button("Cliquez pour télécharger", csv, "postes.csv","text/csv",key='download-csv')
 
 
 
